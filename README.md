@@ -40,8 +40,8 @@
 [大量交易資料，卻不知如何找出商業價值？點我了解！](https://tmrgood.kktix.cc/events/python0to1)
 
 ### 附上完整程式碼：
-
-``python
+main.py
+python```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -85,8 +85,8 @@ plt.xlabel('unit')
 plt.ylabel('Pr')
 plt.yticks([])
 plt.show()
+```
 
-``
 參考資料：
 
 [1]2018年的美國新興職缺報告：https://economicgraph.linkedin.com/en-us/research/linkedin-2018-emerging-jobs-report
